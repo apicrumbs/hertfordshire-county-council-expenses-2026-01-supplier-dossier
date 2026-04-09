@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-09T13:18:56+00:00"
+- last_updated: "2026-04-09T13:38:42+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -63,7 +63,8 @@
 
 | Date | Volume | Total Paid | Intensity |
 | :--- | :--- | :--- | :--- |
-|  `N/A` | 2 | £35,376.14 | `*****` |
+|  `16/01/2026` | 1 | £33,192.14 | `*****` |
+| `20/01/2026` | 1 | £2,184.00 | `     ` |
 ---
 - [CRUMB: transparency/expensessupplierdailybreakdown]
 - [SOURCE: supplier-payments-over-500-january-2026.csv ]
